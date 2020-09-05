@@ -1,0 +1,18 @@
+{
+    "articles": [
+        { 
+            "name": "",
+            "description": "",
+            "relativeRating": "",
+            "absoluteRating": "", 
+            "notes": "",
+            "questionairre": [
+                {
+                    "question": "",
+                    "answer": "",
+                    "markdownAnswer": ""
+                }
+            ]
+        }
+    ]
+}
