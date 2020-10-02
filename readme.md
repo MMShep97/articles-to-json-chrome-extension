@@ -1,5 +1,6 @@
-Notes:
+[![GitHub Super-Linter](https://github.com/<MMShep97>/<articles-to-json-chrome-extension>/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
+Notes:
 
 ## Ideas at Time <Creation>
 Chrome extension to save a list of articles that have ever impacted you (negatively or positively) in json format...
